@@ -1,7 +1,0 @@
-{
-    "player_id": "P04",
-    "display_name": "DeltaBot",
-    "host": "127.0.0.1",
-    "port": 8104,
-    "strategy": "adaptive"
-}
