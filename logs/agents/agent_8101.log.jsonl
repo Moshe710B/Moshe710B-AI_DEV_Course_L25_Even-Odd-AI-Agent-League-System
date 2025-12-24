@@ -17,3 +17,4 @@
 {"timestamp": "2025-12-22T22:31:01Z", "level": "INFO", "player_id": "agent_8101", "event_type": "REGISTRATION_START", "message": "Registering with League Manager at http://localhost:8000/mcp", "display_name": "AgentAlpha", "contact_endpoint": "http://127.0.0.1:8101/mcp"}
 {"timestamp": "2025-12-22T22:31:25Z", "level": "ERROR", "player_id": "agent_8101", "event_type": "REGISTRATION_FAILED", "message": "Failed to connect to League Manager after 4 attempts", "error": "All connection attempts failed"}
 {"timestamp": "2025-12-22T22:31:25Z", "level": "ERROR", "player_id": "agent_8101", "event_type": "STARTUP_ERROR", "message": "Unexpected error during registration: Retry exhausted after 4 attempts: All connection attempts failed"}
+{"timestamp": "2025-12-23T16:13:19Z", "level": "INFO", "player_id": "agent_8101", "event_type": "AGENT_STARTING", "message": "Starting player agent on port 8101", "display_name": "AgentAlpha"}
