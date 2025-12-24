@@ -1,0 +1,92 @@
+{
+  "player_id": "P04",
+  "state": "REGISTERED",
+  "assigned_id": "P04",
+  "auth_token": "c62dd67f5ebdb6854e6831873493ef87",
+  "wins": 4,
+  "draws": 2,
+  "losses": 4,
+  "points": 14,
+  "history": [
+    {
+      "match_id": "R1M1",
+      "result": "WIN",
+      "choice": "odd",
+      "opponent_choice": "even",
+      "drawn_number": 5,
+      "points_earned": 3
+    },
+    {
+      "match_id": "R1M1",
+      "result": "LOSS",
+      "choice": "odd",
+      "opponent_choice": "even",
+      "drawn_number": 4,
+      "points_earned": 0
+    },
+    {
+      "match_id": "R1M1",
+      "result": "DRAW",
+      "choice": "even",
+      "opponent_choice": "even",
+      "drawn_number": 4,
+      "points_earned": 1
+    },
+    {
+      "match_id": "R1M2",
+      "result": "WIN",
+      "choice": "odd",
+      "opponent_choice": "even",
+      "drawn_number": 1,
+      "points_earned": 3
+    },
+    {
+      "match_id": "R1M1",
+      "result": "LOSS",
+      "choice": "even",
+      "opponent_choice": "odd",
+      "drawn_number": 3,
+      "points_earned": 0
+    },
+    {
+      "match_id": "R1M2",
+      "result": "WIN",
+      "choice": "odd",
+      "opponent_choice": "even",
+      "drawn_number": 7,
+      "points_earned": 3
+    },
+    {
+      "match_id": "R1M1",
+      "result": "LOSS",
+      "choice": "odd",
+      "opponent_choice": "even",
+      "drawn_number": 10,
+      "points_earned": 0
+    },
+    {
+      "match_id": "R1M1",
+      "result": "DRAW",
+      "choice": "even",
+      "opponent_choice": "even",
+      "drawn_number": 5,
+      "points_earned": 1
+    },
+    {
+      "match_id": "R2M1",
+      "result": "WIN",
+      "choice": "odd",
+      "opponent_choice": "even",
+      "drawn_number": 5,
+      "points_earned": 3
+    },
+    {
+      "match_id": "R3M1",
+      "result": "LOSS",
+      "choice": "even",
+      "opponent_choice": "odd",
+      "drawn_number": 1,
+      "points_earned": 0
+    }
+  ]
+}
